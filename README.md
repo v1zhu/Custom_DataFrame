@@ -4,11 +4,9 @@ This project implements a simplified DataFrame data structure fromscratch in Jav
 
 
 About
-
 This is a final project of DSC 30 (Data Structures and Algorithms for Data Science) at UCSD aimed at practicing data structures and algorithms by building a DataFrame that mimics the functionality and behavior of Python’s popular pandas DataFrame. The project showcases how key Abstract Data Types (ADTs) like linked lists and binary search trees can be integrated with hash tables to build a versatile data structure.
 
 Installation
-
 This project is a Java library built with IntelliJ IDEA and contains custom implementations of data structures and a DataFrame class. To use it in your own project:
 1. Clone this repository:
 2. Import the project into IntelliJ IDEA:
