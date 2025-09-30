@@ -107,7 +107,6 @@ public class SeriesV2<T> implements Series<T> {
       * @param rn the row name to search for
       */
      public T loc(String rn) throws NullPointerException, IllegalArgumentException{
-          // TODO: Implement loc method
           //declare exceptions for if rn is null or an empty string
           if (rn == null) {
                throw new NullPointerException("loc(String rn): rn can't be null");
