@@ -1,6 +1,6 @@
 **Custom DataFrame - Data Structures and Algorithms for Data Science (DSC 30)**
 
-This project implements a simplified DataFrame data structure fromscratch in Java. It uses core data structures such as hash tables, linked lists, and binary search trees (all custom-built) to store and organize tabular data efficiently.
+This project implements a simplified DataFrame data structure from scratch in Java. It uses core data structures such as hash tables, linked lists, and binary search trees (all custom-built) to store and organize tabular data efficiently.
 
 
 **About**
