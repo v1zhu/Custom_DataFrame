@@ -9,9 +9,9 @@ This is a final project of DSC 30 (Data Structures and Algorithms for Data Scien
 **Installation**
 This project is a Java library built with IntelliJ IDEA and contains custom implementations of data structures and a DataFrame class. To use it in your own project:
 1. Clone this repository:
-2. Import the project into IntelliJ IDEA:
-  Open IntelliJ IDEA
-  Select Open and choose the cloned project folder
-3. Build the project using IntelliJ’s build tools.
+2. Import the project into IntelliJ IDEA:  
+  Open IntelliJ IDEA  
+  Select Open and choose the cloned project folder  
+3. Build the project using IntelliJ’s build tools.  
 4. Use the .java files (in the src folder) in your own Java projects by including them as part of your source or by compiling and packaging into a jar (optional).
 
